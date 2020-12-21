@@ -1,0 +1,39 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "com.github.stuartblair:Struancraft Behaviors",
+        "description": "First Bedrock addon with Struan",
+        "uuid": "f0dcedf1-3085-479a-bcb5-9f43fb2861a5",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            14,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "data",
+            "uuid": "df654c9f-5551-4715-a8e7-d4e13260f891",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "c615d8fd-069e-495b-8186-e808e63109c2",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}
