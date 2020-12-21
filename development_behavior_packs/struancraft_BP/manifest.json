@@ -2,7 +2,7 @@
     "format_version": 2,
     "header": {
         "name": "com.github.stuartblair:Struancraft Behaviors",
-        "description": "First Bedrock addon with Struan",
+        "description": "First Bedrock Behaviors addon with Struan",
         "uuid": "f0dcedf1-3085-479a-bcb5-9f43fb2861a5",
         "version": [
             1,

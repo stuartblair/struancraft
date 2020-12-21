@@ -2,7 +2,7 @@
     "format_version": 1,
     "header": {
         "name": "com.github.stuartblair:Struancraft Resources",
-        "description": "First Bedrock addon with Struan",
+        "description": "First Bedrock Resources addon with Struan",
         "uuid": "c615d8fd-069e-495b-8186-e808e63109c2",
         "version": [
             1,
